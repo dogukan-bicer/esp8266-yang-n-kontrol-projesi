@@ -6,4 +6,6 @@
 
 -led pini d8
 
+-gaz sensoru A0
+
 -firebase real time data serveri united states e ayarlı olmalı okuma ve yazma açık olmalı
